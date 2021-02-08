@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "歡迎來到淨皂軒之藥草園",
+"productVersion": "0.1",
+"dataUrl": "BoardG_Youtube.data.unityweb",
+"wasmCodeUrl": "BoardG_Youtube.wasm.code.unityweb",
+"wasmFrameworkUrl": "BoardG_Youtube.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
